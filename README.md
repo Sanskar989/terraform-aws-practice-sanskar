@@ -89,7 +89,7 @@ provider "aws" {
   ```
 
 
-# Terraform: Deploying a Web Server in a Custom AWS VPC (TAKE HOME ASSINGMENTS)
+# Terraform: Deploying a Web Server in a Custom AWS VPC (ON-CLASS ASSINGMENT)
 
 ---
 
@@ -204,7 +204,7 @@ This setup will **automatically create a new VPC, public subnet, internet gatewa
 
 ---
 
-# Assignment 1: Deploy a Static Website on AWS S3 with Terraform
+# Assignment 1: Deploy a Static Website on AWS S3 with Terraform (TAKE HOME ASSINGMENTS)
 
 ---
 
@@ -288,7 +288,7 @@ This deletes your S3 bucket and all associated resources to avoid AWS costs.
 
 ---
 
-# Assignment 2: Refactor the Web Server into a Reusable Terraform Module
+# Assignment 2: Refactor the Web Server into a Reusable Terraform Module (TAKE HOME ASSINGMENTS)
 
 ---
 
